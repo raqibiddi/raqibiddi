@@ -4,7 +4,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Event Donation Management System</b>
 - [Event Donation Management System](https://donation.opportunityghana.com:1300)
     
 
